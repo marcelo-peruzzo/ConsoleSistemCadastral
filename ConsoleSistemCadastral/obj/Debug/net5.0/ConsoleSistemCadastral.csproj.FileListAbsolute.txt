@@ -1,0 +1,16 @@
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\obj\Debug\net5.0\ConsoleSistemCadastral.csproj.AssemblyReference.cache
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\obj\Debug\net5.0\ConsoleSistemCadastral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\obj\Debug\net5.0\ConsoleSistemCadastral.AssemblyInfoInputs.cache
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\obj\Debug\net5.0\ConsoleSistemCadastral.AssemblyInfo.cs
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\obj\Debug\net5.0\ConsoleSistemCadastral.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\bin\Debug\net5.0\ConsoleSistemCadastral.exe
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\bin\Debug\net5.0\ConsoleSistemCadastral.deps.json
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\bin\Debug\net5.0\ConsoleSistemCadastral.runtimeconfig.json
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\bin\Debug\net5.0\ConsoleSistemCadastral.runtimeconfig.dev.json
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\bin\Debug\net5.0\ConsoleSistemCadastral.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\bin\Debug\net5.0\ref\ConsoleSistemCadastral.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\bin\Debug\net5.0\ConsoleSistemCadastral.pdb
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\obj\Debug\net5.0\ConsoleSistemCadastral.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\obj\Debug\net5.0\ref\ConsoleSistemCadastral.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\obj\Debug\net5.0\ConsoleSistemCadastral.pdb
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ConsoleSistemCadastral\ConsoleSistemCadastral\obj\Debug\net5.0\ConsoleSistemCadastral.genruntimeconfig.cache
